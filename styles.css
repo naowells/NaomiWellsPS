@@ -1,11 +1,9 @@
-#title {
-    color:red;
+body {
+    background-color:rgb(6, 97, 139);
+    color: white;
+    padding: 30px;
 }
 
-.blue{
-    color:blue;
-}
-
-h2 {
-    color:green;
+ul {
+    border: 1px solid black;
 }
